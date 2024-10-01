@@ -1,0 +1,6 @@
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "ext/Unity"]
+	path = ext/Unity
+	url = git@github.com:ThrowTheSwitch/Unity.git
